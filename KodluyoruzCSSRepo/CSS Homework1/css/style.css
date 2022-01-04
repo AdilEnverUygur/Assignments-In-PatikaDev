@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+.navigation {
+    text-align: center;
+    height: fit-content;
+}
+
+.navigation > ul {
+    list-style-type: none;
+}
+
+.navigation > ul > li {
+    display: inline;
+    margin: 0 5px;
+}
+
+h1 {
+    color: rgb(231, 39, 39);
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: coral;
+    font-size: 36;
+    text-align: center;
+}
+
+h2 {
+    color: coral;
+    font-size: 26;
+}
+
+hr {
+    width: 70%;
+}
+
+a {
+    color: rgb(42, 118, 153);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+article > p {
+    text-align: center;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer > p {
+    text-align: center;
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+
+footer > ul {
+    list-style-type:none;
+    color: black;
+}
+
+
+
+/* PRODUCTS */
+.product-image-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+.text-align {
+    text-align: center;
+}
+.article-text {
+    padding: 0 10%;
+    text-align: justify;
+ }
+
+
+
