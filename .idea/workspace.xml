@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="changes">
-      <change afterPath="$PROJECT_DIR$/.idea/Assignments-In-PatikaDev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Patika-Java-101/src/calculatesVATamount/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patika-Java-101/src/calculatesGradePointAverage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Patika-Java-101/src/calculatesGradePointAverage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculatesGradePointAverage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculatesVATamount/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,22 +169,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="578" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641817995364" />
-    <state width="1493" height="125" key="GridCell.Tab.0.bottom" timestamp="1641814622410">
+    <state width="1493" height="440" key="GridCell.Tab.0.bottom" timestamp="1641818892858">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="125" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641814622410" />
-    <state width="1493" height="125" key="GridCell.Tab.0.center" timestamp="1641814622410">
+    <state width="1493" height="440" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641818892858" />
+    <state width="1493" height="440" key="GridCell.Tab.0.center" timestamp="1641818892857">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="125" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641814622410" />
-    <state width="1493" height="125" key="GridCell.Tab.0.left" timestamp="1641814622410">
+    <state width="1493" height="440" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641818892857" />
+    <state width="1493" height="440" key="GridCell.Tab.0.left" timestamp="1641818892857">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="125" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641814622410" />
-    <state width="1493" height="125" key="GridCell.Tab.0.right" timestamp="1641814622410">
+    <state width="1493" height="440" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641818892857" />
+    <state width="1493" height="440" key="GridCell.Tab.0.right" timestamp="1641818892858">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="125" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641814622410" />
+    <state width="1493" height="440" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641818892858" />
     <state x="467" y="128" key="RollbackChangesDialog" timestamp="1641817616529">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -197,14 +193,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="278" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1641818835818" />
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1641811640167">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1641819153783">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1641811640167" />
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641817668120">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1641819153783" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641819118637">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1641817668120" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1641819118637" />
     <state x="238" y="131" key="new project wizard" timestamp="1641809663072">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
