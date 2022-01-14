@@ -19,11 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="Body mass index calculator">
-      <change afterPath="$PROJECT_DIR$/.idea/Patika-Java-101/src/fruitererCashierProgram/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fruitererCashierProgram/Main.class" afterDir="false" />
+    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="Manav Kasa Programı">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bodyMassIndexCalculator/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641854432702</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Manav Kasa Programı">
+      <created>1641906352801</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641906352801</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +249,8 @@
     <MESSAGE value="Calculate area and perimeter of a circle" />
     <MESSAGE value="changed" />
     <MESSAGE value="Body mass index calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Body mass index calculator" />
+    <MESSAGE value="Manav Kasa Programı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manav Kasa Programı" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1641817900125">
@@ -260,22 +265,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="578" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641817995364" />
-    <state width="1006" height="90" key="GridCell.Tab.0.bottom" timestamp="1641905891688">
+    <state width="1493" height="154" key="GridCell.Tab.0.bottom" timestamp="1641906586601">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1006" height="90" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641905891688" />
-    <state width="1006" height="90" key="GridCell.Tab.0.center" timestamp="1641905891687">
+    <state width="1493" height="154" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641906586601" />
+    <state width="1493" height="154" key="GridCell.Tab.0.center" timestamp="1641906586600">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1006" height="90" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641905891687" />
-    <state width="1006" height="90" key="GridCell.Tab.0.left" timestamp="1641905891687">
+    <state width="1493" height="154" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641906586600" />
+    <state width="1493" height="154" key="GridCell.Tab.0.left" timestamp="1641906586600">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1006" height="90" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641905891687" />
-    <state width="1006" height="90" key="GridCell.Tab.0.right" timestamp="1641905891688">
+    <state width="1493" height="154" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641906586600" />
+    <state width="1493" height="154" key="GridCell.Tab.0.right" timestamp="1641906586601">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1006" height="90" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641905891688" />
+    <state width="1493" height="154" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641906586601" />
     <state x="467" y="128" key="RollbackChangesDialog" timestamp="1641817616529">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -284,14 +289,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="278" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1641818835818" />
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1641854438225">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1641906355290">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1641854438225" />
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641854707636">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1641906355290" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641906407941">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1641854707636" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1641906407941" />
     <state x="238" y="131" key="new project wizard" timestamp="1641809663072">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
