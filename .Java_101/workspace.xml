@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="Sorting Numbers From Smaller To Largest">
+    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="Horoscope Finder Program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -277,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642418823294</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Horoscope Finder Program">
+      <created>1642419211833</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642419211833</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,7 +315,8 @@
     <MESSAGE value="pass status" />
     <MESSAGE value="Suggesting Events Based on air temperature" />
     <MESSAGE value="Sorting Numbers From Smaller To Largest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorting Numbers From Smaller To Largest" />
+    <MESSAGE value="Horoscope Finder Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Horoscope Finder Program" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1641817900125">
@@ -323,22 +331,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="578" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641817995364" />
-    <state width="1493" height="568" key="GridCell.Tab.0.bottom" timestamp="1642418553951">
+    <state width="1493" height="568" key="GridCell.Tab.0.bottom" timestamp="1642419928443">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="568" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642418553951" />
-    <state width="1493" height="568" key="GridCell.Tab.0.center" timestamp="1642418553951">
+    <state width="1493" height="568" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642419928443" />
+    <state width="1493" height="568" key="GridCell.Tab.0.center" timestamp="1642419928443">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="568" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642418553951" />
-    <state width="1493" height="568" key="GridCell.Tab.0.left" timestamp="1642418553951">
+    <state width="1493" height="568" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642419928443" />
+    <state width="1493" height="568" key="GridCell.Tab.0.left" timestamp="1642419928442">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="568" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642418553951" />
-    <state width="1493" height="568" key="GridCell.Tab.0.right" timestamp="1642418553951">
+    <state width="1493" height="568" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642419928442" />
+    <state width="1493" height="568" key="GridCell.Tab.0.right" timestamp="1642419928443">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="568" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642418553951" />
+    <state width="1493" height="568" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642419928443" />
     <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1642409705204">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -363,14 +371,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="278" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1641818835818" />
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1642418825380">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1642419213566">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1642418825380" />
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642419108363">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1642419213566" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642419921845">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1642419108363" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1642419921845" />
     <state x="238" y="131" key="new project wizard" timestamp="1641809663072">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
