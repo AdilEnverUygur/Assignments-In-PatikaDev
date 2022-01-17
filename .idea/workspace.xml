@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="Manav Kasa Programı">
+    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="JavaScript MyClock Project">
+      <change afterPath="$PROJECT_DIR$/.idea/Patika-Java-101/src/createBasicCalculator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,32 +65,29 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\Patika-JavaScript-Assignments" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.idea\Patika-Java-101" />
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.idea" />
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findHypotenuseInRightTriangle.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If" />
       <module name="Assignments-In-PatikaDev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="findHypotenuseInRightTriangle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="taxiFareCalculater.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="createBasicCalculator.Main" />
       <module name="Assignments-In-PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="taxiFareCalculater.*" />
+          <option name="PATTERN" value="createBasicCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.If" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641906352801</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JavaScript MyClock Project">
+      <created>1642171082554</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642171082554</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +255,8 @@
     <MESSAGE value="changed" />
     <MESSAGE value="Body mass index calculator" />
     <MESSAGE value="Manav Kasa Programı" />
-    <option name="LAST_COMMIT_MESSAGE" value="Manav Kasa Programı" />
+    <MESSAGE value="JavaScript MyClock Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript MyClock Project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1641817900125">
@@ -265,22 +271,38 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="578" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641817995364" />
-    <state width="1493" height="154" key="GridCell.Tab.0.bottom" timestamp="1641906586601">
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1642409705204">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641906586601" />
-    <state width="1493" height="154" key="GridCell.Tab.0.center" timestamp="1641906586600">
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642409705204" />
+    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1642409705204">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641906586600" />
-    <state width="1493" height="154" key="GridCell.Tab.0.left" timestamp="1641906586600">
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642409705204" />
+    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1642409705204">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641906586600" />
-    <state width="1493" height="154" key="GridCell.Tab.0.right" timestamp="1641906586601">
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642409705204" />
+    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1642409705204">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641906586601" />
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642409705204" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1642409705204">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642409705204" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1642409705204">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1642409705204" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1642409705204">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1642409705204" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1642409705204">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1642409705204" />
     <state x="467" y="128" key="RollbackChangesDialog" timestamp="1641817616529">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -289,14 +311,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="278" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1641818835818" />
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1641906355290">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1642171086645">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1641906355290" />
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1641906407941">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1642171086645" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642253804692">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1641906407941" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1642253804692" />
     <state x="238" y="131" key="new project wizard" timestamp="1641809663072">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
