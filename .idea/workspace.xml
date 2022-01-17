@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="Login User">
-      <change afterPath="$PROJECT_DIR$/.idea/Patika-Java-101/src/passStatus/Main.java" afterDir="false" />
+    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="pass status">
+      <change afterPath="$PROJECT_DIR$/.idea/Patika-Java-101/src/suggestingEventsBasedOnAirTemperature/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="If" />
       <module name="Assignments-In-PatikaDev" />
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fruitererCashierProgram.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="suggestingEventsBasedOnAirTemperature.Main" />
       <module name="Assignments-In-PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fruitererCashierProgram.*" />
+          <option name="PATTERN" value="suggestingEventsBasedOnAirTemperature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.If" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642415378760</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="pass status">
+      <created>1642416988975</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642416988975</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,7 +279,8 @@
     <MESSAGE value="JavaScript MyClock Project" />
     <MESSAGE value="Basic Calculator with switch case" />
     <MESSAGE value="Login User" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login User" />
+    <MESSAGE value="pass status" />
+    <option name="LAST_COMMIT_MESSAGE" value="pass status" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1641817900125">
@@ -287,22 +295,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="578" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641817995364" />
-    <state width="1493" height="568" key="GridCell.Tab.0.bottom" timestamp="1642415328790">
+    <state width="1493" height="568" key="GridCell.Tab.0.bottom" timestamp="1642416953145">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="568" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642415328790" />
-    <state width="1493" height="568" key="GridCell.Tab.0.center" timestamp="1642415328790">
+    <state width="1493" height="568" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642416953145" />
+    <state width="1493" height="568" key="GridCell.Tab.0.center" timestamp="1642416953145">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="568" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642415328790" />
-    <state width="1493" height="568" key="GridCell.Tab.0.left" timestamp="1642415328790">
+    <state width="1493" height="568" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642416953145" />
+    <state width="1493" height="568" key="GridCell.Tab.0.left" timestamp="1642416953145">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="568" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642415328790" />
-    <state width="1493" height="568" key="GridCell.Tab.0.right" timestamp="1642415328790">
+    <state width="1493" height="568" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642416953145" />
+    <state width="1493" height="568" key="GridCell.Tab.0.right" timestamp="1642416953145">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="568" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642415328790" />
+    <state width="1493" height="568" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642416953145" />
     <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1642409705204">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -327,14 +335,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="278" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1641818835818" />
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1642415383945">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1642416990969">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1642415383945" />
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642416503826">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1642416990969" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642417113412">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1642416503826" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1642417113412" />
     <state x="238" y="131" key="new project wizard" timestamp="1641809663072">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
