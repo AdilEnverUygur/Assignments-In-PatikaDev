@@ -1,4 +1,4 @@
-package Loops.findTheSumOfOddNumbers;
+package loops.findTheSumOfOddNumbers;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Loops.findEvenNumbersUpToTheEnteredNumber;
+package loops.findEvenNumbersUpToTheEnteredNumber;
 
 import java.util.Scanner;
 
