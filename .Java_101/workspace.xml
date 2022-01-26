@@ -75,11 +75,11 @@
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="createBasicCalculator.Main" />
+      <option name="MAIN_CLASS_NAME" value="ifElseStatements.createBasicCalculator.Main" />
       <module name="Assignments-In-PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="createBasicCalculator.*" />
+          <option name="PATTERN" value="ifElseStatements.createBasicCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="userLogin.Main" />
+      <option name="MAIN_CLASS_NAME" value="ifElseStatements.userLogin.Main" />
       <module name="Assignments-In-PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="userLogin.*" />
+          <option name="PATTERN" value="ifElseStatements.userLogin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="passStatus.Main" />
+      <option name="MAIN_CLASS_NAME" value="ifElseStatements.passStatus.Main" />
       <module name="Assignments-In-PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="passStatus.*" />
+          <option name="PATTERN" value="ifElseStatements.passStatus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="suggestingEventsBasedOnAirTemperature.Main" />
+      <option name="MAIN_CLASS_NAME" value="ifElseStatements.suggestingEventsBasedOnAirTemperature.Main" />
       <module name="Assignments-In-PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="suggestingEventsBasedOnAirTemperature.*" />
+          <option name="PATTERN" value="ifElseStatements.suggestingEventsBasedOnAirTemperature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,7 +131,7 @@
       <module name="Assignments-In-PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortingNumbersFromSmallerToLargest.*" />
+          <option name="PATTERN" value="ifElseStatements.sortingNumbersFromSmallerToLargest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
