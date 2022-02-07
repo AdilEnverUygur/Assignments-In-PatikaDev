@@ -2,28 +2,27 @@ package classes.studentGradingSystem;
 
 public class Course {
     Teacher teacher;
-    String name;
-    String code;
-    String prefix;
+    String name, code, prefix ;
     int note;
-    int sozlunot;
+    int sozluNote;
 
-    Course(String name,String code,String prefix){
+    Course(String name, String code, String prefix ){
         this.name = name;
-        this.code=code;
-        this.prefix=prefix;
+        this.code = code;
+        this.prefix = prefix;
         int note = 0;
-        int sozlunot;
+        int sozluNote = 0;
     }
 
+
     void addTeacher(Teacher teacher){
-        if (teacher.branch.equals(this.prefix)){
-            this.teacher=teacher;
+        if(teacher.branch.equals(this.prefix)){
+            this.teacher = teacher;
 
-        }else{
-            System.out.println("öğretmen ve ders uyusmuyor");
         }
-
+        else{
+            System.out.println("Öğretmen ve Ders Bölümleri Uyuşmuyor ! ");
+        }
     }
     void printTeacher(){
         this.teacher.print();

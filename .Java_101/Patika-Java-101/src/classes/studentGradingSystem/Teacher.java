@@ -1,19 +1,16 @@
 package classes.studentGradingSystem;
 
 public class Teacher {
-    String name;
-    String branch;
-    String mphone;
+    String name, mpno, branch;
 
-    Teacher(String name,String branch,String mphone){
+    Teacher(String name, String branch, String mpno){
         this.name = name;
-        this.branch=branch;
-        this.mphone=mphone;
-
+        this.branch = branch;
+        this.mpno = mpno;
     }
-    void print (){
-        System.out.println("Adı  :"+this.name);
-        System.out.println("Branşı :"+this.branch);
-        System.out.println("Telefonu :"+mphone);
+    void print(){
+        System.out.println("Adı : " +this.name);
+        System.out.println("Telefonu : " +this.mpno);
+        System.out.println("Bölümü : " +this.branch);
     }
 }
