@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.Java_101/Assignments-In-PatikaDev.iml" filepath="$PROJECT_DIR$/.Java_101/Assignments-In-PatikaDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Web/Assignments-In-PatikaDev.iml" filepath="$PROJECT_DIR$/Java_Web/Assignments-In-PatikaDev.iml" />
     </modules>
   </component>
 </project>
