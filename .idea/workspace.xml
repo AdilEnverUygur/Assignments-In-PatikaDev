@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="The Fifth SQL Homework" />
+    <list default="true" id="cebc167d-cda6-4531-b10a-de73daa1e548" name="Default Changelist" comment="The Seventh SQL Homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,17 +61,17 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.idea\Patika-Java-101" />
+      <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.idea" />
+      <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\Java_Web\Java-Web-Dvelopment-Intermediate-Level\SQL-Homework" />
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.Java_101\Java-Web-Dvelopment-Intermediate-Level\SQL-Homework" />
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.Java_101\Patika-Java-101\src\objectOrientedProgramming\ElevatorManagementSystem" />
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.Java_101\Patika-Java-101\src\objectOrientedProgramming\onlineMovieSystem" />
       <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.Java_101\Patika-Java-101\src\objectOrientedProgramming\flightManementSystem" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.idea\Patika-Java-101" />
-      <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev\.idea" />
-      <recent name="C:\Users\Adilcan\IdeaProjects\Assignments-In-PatikaDev" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -210,13 +210,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641809585475</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Chinese Zodiac Calculator">
-      <created>1642710375379</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1642710375379</updated>
     </task>
     <task id="LOCAL-00022" summary="Leap Year Calculation">
       <created>1642710815267</created>
@@ -554,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645092612692</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="The Seventh SQL Homework">
+      <created>1645110044263</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1645110044264</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -574,7 +574,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Create Method by pattern" />
     <MESSAGE value="Student Grading System" />
     <MESSAGE value="Boxing Game" />
     <MESSAGE value="Changed" />
@@ -599,7 +598,8 @@
     <MESSAGE value="The Third SQL Homework" />
     <MESSAGE value="The Fourth SQL Homework" />
     <MESSAGE value="The Fifth SQL Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="The Fifth SQL Homework" />
+    <MESSAGE value="The Seventh SQL Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Seventh SQL Homework" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1641817900125">
@@ -654,14 +654,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="278" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1644864390880" />
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1645092615393">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2" timestamp="1645110046012">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1645092615392" />
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645092620262">
+    <state x="538" y="133" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1645110046012" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645110051722">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1645092620262" />
+    <state x="763" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1645110051722" />
     <state x="238" y="131" key="new project wizard" timestamp="1641809663072">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
